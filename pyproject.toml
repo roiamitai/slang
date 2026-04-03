@@ -53,8 +53,6 @@ wheel.license-files = ["LICENSE"]
 SLANG_INCLUDE_TESTS = "OFF"
 SLANG_INCLUDE_TOOLS = "OFF"
 SLANG_INCLUDE_PYLIB = "ON"
-SLANG_INCLUDE_DOCS = "ON"
-SLANG_INCLUDE_PYTHON_DOCS = "ON"
 
 [tool.cibuildwheel]
 archs = ["auto64"]
